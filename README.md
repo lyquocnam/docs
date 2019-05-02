@@ -1,2 +1,2 @@
-# docs
+# 200lab
 Documentation for all ORY projects.
